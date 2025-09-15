@@ -1,3 +1,30 @@
+
+
+# AI Stock Predictor
+
+An AI-powered application that visualizes historical stock data, generates future price predictions, and performs market sentiment analysis using pre-computed datasets and the Google Gemini API.
+
+![App Screenshot](link-to-your-screenshot.png) <!-- It's a great idea to add a screenshot! -->
+
+## Features
+
+-   **Interactive Chart:** Visualizes historical and predicted stock prices using Recharts.
+-   **Multiple Datasets:** Allows users to select from several pre-defined stock datasets (AAPL, GOOGL, TSLA, etc.).
+-   **AI Sentiment Analysis:** Uses the Gemini API to provide real-time sentiment analysis (Bullish, Bearish, Neutral) for the selected stock.
+-   **Responsive UI:** Built with React and Tailwind CSS for a clean, modern, and responsive user experience.
+
+## How to Run Locally
+
+1.  Clone the repository.
+2.  This project is set up to run in an environment like an online IDE where the `process.env.API_KEY` is pre-configured. To run it, you would need to serve the `index.html` file and ensure a valid Google Gemini API key is available in the environment.
+
+## Technologies Used
+
+-   React
+-   TypeScript
+-   Google Gemini API (`@google/genai`)
+-   Tailwind CSS
+-   Recharts
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
