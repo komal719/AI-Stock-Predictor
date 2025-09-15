@@ -4,8 +4,6 @@
 
 An AI-powered application that visualizes historical stock data, generates future price predictions, and performs market sentiment analysis using pre-computed datasets and the Google Gemini API.
 
-![App Screenshot](link-to-your-screenshot.png) <!-- It's a great idea to add a screenshot! -->
-
 ## Features
 
 -   **Interactive Chart:** Visualizes historical and predicted stock prices using Recharts.
