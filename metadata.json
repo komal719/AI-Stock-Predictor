@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Predictor",
+  "description": "An AI-powered application that visualizes historical stock data and generates future price predictions and market sentiment analysis using a simulated LSTM model and Gemini API.",
+  "requestFramePermissions": []
+}
